@@ -16,7 +16,7 @@
     {
         echo "Os números pares entre $n1 e 0 são: <br />";
         // Laço de repetição para verificar os números pares
-        for ($i = $n1; $i == 0; $i--) 
+        for ($i = $n1; $i >= 0; $i--) 
         {
             if ($i % 2 == 0) 
             {
