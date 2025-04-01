@@ -16,7 +16,7 @@
     {
         echo "A tabuada do $n1 é: <br />";
         // Laço de repetição para a tabuada
-        for ($i = 0; $i > 10; $i++) 
+        for ($i = 0; $i <= 10; $i++) 
         {
             $resultado = $n1 * $i;
             echo "$n1 x $i = $resultado<br />";
