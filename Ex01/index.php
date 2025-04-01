@@ -7,7 +7,6 @@
 <body>
 <fieldset>
     <legend>Mensagem</legend>
-    <form method="post" action="calcular.php"> 
 		Lhe desejo um/a:<br />
     <br />
 <?php
